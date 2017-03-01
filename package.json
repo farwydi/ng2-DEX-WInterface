@@ -1,0 +1,26 @@
+{
+  "name": "ng2-dex-winterface",
+  "version": "0.0.0",
+  "description": "DEX Web Inerface builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonzharikov/ng2-DEX-WInterface.git"
+  },
+  "keywords": [
+    "DEX",
+    "ng2"
+  ],
+  "author": "DEX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonzharikov/ng2-DEX-WInterface/issues"
+  },
+  "homepage": "https://github.com/leonzharikov/ng2-DEX-WInterface#readme",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
